@@ -1,4 +1,4 @@
-# Prograsm y Proyectos de Inversión de la Obra Pública con presupuestos aprobados
+# Programas y Proyectos de Inversión de la Obra Pública con presupuestos aprobados
 
 Contiene información de los Programas y Proyectos de Inversión de la Obra Pública con presupuesto aprobados, además brinda datos para poder revisar su seguimiento y el detalle de cada Proyecto o Programa de Inversión 
 
